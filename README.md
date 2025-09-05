@@ -1,4 +1,4 @@
-Customer Analysis Dashboard 📊
+Madhav Stores – Customer & Sales Analysis Dashboard (Power BI) 📊
 
 An interactive Power BI dashboard designed to analyze customer behavior, order trends, and sales performance. The dashboard provides valuable insights into customer demographics, purchasing patterns, and revenue contribution, helping businesses make data-driven decisions.
 
